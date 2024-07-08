@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: aliceblue;
+    }
+    .nav img{
+    margin: 20px;
+    height: 80px;
+    }
+    nav{
+    background-color: red;
+    padding: 20px;
+    }
+    nav a{
+    color: black;
+    text-decoration: solid;
+    text-align: center;
+    border-right: 2px solid yellow;
+    padding: 20px;
+    }
+    li,ul{
+    display: flex;
+    
+    display: inline;
+    }
+    .submenu:hover .submenu-content{
+    display: block;
+    display: inline;
+    }
+    .submenu-content{
+    display: none;
+    }
+    .about img{
+    width: 15%;
+    display: flex;
+    float: left;
+    }
+    .about div{
+    float: left;
+    }
+    footer{
+    background-color: aqua;
+    width: 100%;
+    padding: 29px;
+    
+    }
